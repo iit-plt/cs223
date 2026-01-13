@@ -2,6 +2,35 @@
 
 ### Welcome to the course website of Computer Architecture and Organization (Jan-May 2026)
 
+#### **Course Schedule**
+
+- **Monday:** 09:00 – 09:55  
+- **Tuesday:** 10:00 – 10:55  
+- **Wednesday:** 11:00 – 11:55  
+- **Friday:** 07:55 – 08:50 *(Reserved)*  
+
+**Room:** 5G2  
+**Class Slot:** B  
+**Exam Slot:** B  
+
+#### Textbooks
+
+- *Computer Organization and Design*, D. A. Patterson and J. L. Hennessy, 4th Ed., Morgan Kaufmann, 2010. [1]
+- *Digital Design and Computer Architecture: RISC-V Edition*, David Money Harris and Sarah L. Harris, Morgan Kaufmann. [2]
+- *Computer Organization and Architecture: Designing for Performance*, W. Stallings, 8th Ed., Pearson, 2010. [3]
+
+#### References
+
+- *Computer Organization*, C. Hamacher, Z. Vranesic and S. Zaky, 6th Ed., McGraw-Hill Education, 2011. [4]
+- *Computer System Architecture*, M. Morris Mano, 3rd Ed., Pearson, 1992. [5]
+
+---
+### **Notice Board**
+- Class will be conducted on **16th January 2026**.
+
+---
+
+### **Attendance and slides**
 
 [Click here to check your attendance](https://iitgoffice-my.sharepoint.com/:x:/g/personal/phrangboklang_iitg_ac_in/IQBkjg3LkLJiQbVX9PI7xILPAbzTxOAuKEslq8xUu8Eood4?e=L8ZTcq)
 
