@@ -13,13 +13,30 @@
 **Class Slot:** B  
 **Exam Slot:** B  
 
-#### Textbooks
+#### Rasing Query
+
+- Course-related emails should have the subject prefixed with **CS223**.
+- **Email ID:** phrangboklang@iitg.ac.in
+
+#### Assessment Marks Weightage
+
+| Assessment        | Marks | Weightage |
+|-------------------|-------|------------|
+| Class Test – 1    | 20    | 10%        |
+| Mid-Semester      | 30    | 30%        |
+| Class Test – 2    | 20    | 10%        |
+| End-Semester      | 50    | 50%        |
+
+*This is tentative. Any changes will be informed.*
+
+---
+### Textbooks
 
 - *Computer Organization and Design*, D. A. Patterson and J. L. Hennessy, 4th Ed., Morgan Kaufmann, 2010. [1]
 - *Digital Design and Computer Architecture: RISC-V Edition*, David Money Harris and Sarah L. Harris, Morgan Kaufmann. [2]
 - *Computer Organization and Architecture: Designing for Performance*, W. Stallings, 8th Ed., Pearson, 2010. [3]
 
-#### References
+#### Other References
 
 - *Computer Organization*, C. Hamacher, Z. Vranesic and S. Zaky, 6th Ed., McGraw-Hill Education, 2011. [4]
 - *Computer System Architecture*, M. Morris Mano, 3rd Ed., Pearson, 1992. [5]
