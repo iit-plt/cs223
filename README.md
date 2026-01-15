@@ -27,7 +27,7 @@
 | Class Test – 2    | 20    | 10%        |
 | End-Semester      | 50    | 50%        |
 
-*This is tentative. Any changes will be informed.*
+*This is tentative. Any changes will be informed in due course of time. 
 
 ---
 ### Textbooks
