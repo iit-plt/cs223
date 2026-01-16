@@ -20,12 +20,12 @@
 
 #### Assessment Marks Weightage
 
-| Assessment        | Marks | Weightage |
-|-------------------|-------|------------|
-| Class Test – 1    | 20    | 10%        |
-| Mid-Semester      | 30    | 30%        |
-| Class Test – 2    | 20    | 10%        |
-| End-Semester      | 50    | 50%        |
+| Assessment        | Marks | Weightage |  Date |
+|-------------------|-------|------------|------------|
+| Class Test – 1    | 20    | 10%        | February 4 |
+| Mid-Semester      | 30    | 30%        |TBA         |
+| Class Test – 2    | 20    | 10%        |TBA         |
+| End-Semester      | 50    | 50%        |TBA         |
 
 *This is tentative. Any changes will be informed in due course of time. 
 
