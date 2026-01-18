@@ -43,7 +43,7 @@
 
 ---
 ### **Notice Board**
-- Class will be conducted on **16th January 2026**.
+
 
 ---
 
@@ -55,8 +55,6 @@
 |:---:|:--:|:--|:--------------------------|:--:|
 | 1       |  09-01-2026            | Introduction| [09-01-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAPtNxeJgQ3RpitJQad2iouAa0Fe7cJDBxKUScANFAa0qQ?e=0FuRmC) | []() |
 | 2       |  12-01-2026            | Performance | [12-01-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQBG8pSG28VyQ6edGYl7PZPNAQ7CfXj6RSbT7xwgJAc7Cjs?e=6XLo8n) | []() |
-| 3       |  13-01-2026            | Benhcmarking | [13-01-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAPTF5-ZVbFRrkY3zdzBMGxARHOJWP6dA6IQkfr8op8jQw?e=Dx9349) | []() |
-
-
-
+| 3       |  13-01-2026            | Benchmarking | [13-01-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAPTF5-ZVbFRrkY3zdzBMGxARHOJWP6dA6IQkfr8op8jQw?e=Dx9349) | []() |
+| 4       |  16-01-2026            | Amdahl's Law | [16-01-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQD-aNiJWuy6QI4PUH0To06KAXD-33w3RPDvTesJnxvboC8?e=QSYcFx) | []() |
 
