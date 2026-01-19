@@ -54,8 +54,11 @@
 | Lec. No. | Date of Lecture        | Topics  | Slides   |References |
 |:---:|:--:|:--|:--------------------------|:--:|
 | 1       |  09-01-2026            | Introduction| [09-01-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAPtNxeJgQ3RpitJQad2iouAa0Fe7cJDBxKUScANFAa0qQ?e=0FuRmC) | []() |
-| 2       |  12-01-2026            | Performance | [12-01-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQBG8pSG28VyQ6edGYl7PZPNAQ7CfXj6RSbT7xwgJAc7Cjs?e=6XLo8n) | []() |
+| 2       |  12-01-2026            | Performance | [12-01-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQDihtH1eCQBTpS80SMwhAiMAaDGiIqBsD5PzdG-tDeEqEk?e=lhbXwA) | []() |
+| Tutorial | 12-01-2026            | Performance | [12-01-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQBG8pSG28VyQ6edGYl7PZPNAQ7CfXj6RSbT7xwgJAc7Cjs?e=6XLo8n) | []() |
 | 3       |  13-01-2026            | Benchmarking | [13-01-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAPTF5-ZVbFRrkY3zdzBMGxARHOJWP6dA6IQkfr8op8jQw?e=Dx9349) | []() |
+| Tutorial | 13-01-2026            | Performance metrics and MIPS rating | [13-01-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQD0z-Fg69erSb-_gAHgU0a6Ad4wIyIC8FkNbnb3-Yrncmg?e=kiKtJO) | []() |
 | 4       |  16-01-2026            | Amdahl's Law | [16-01-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQD-aNiJWuy6QI4PUH0To06KAXD-33w3RPDvTesJnxvboC8?e=QSYcFx) | []() |
+| Tutorial |  16-01-2026            | MIPS rating and Amdahl’s Law | [16-01-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQDfedqwk-5DSorN2IqTEIGRAYKx5K6BEaHAOIav5ilpOSA?e=QUH0CP) | []() |
 | 5       |  19-01-2026            | How do instructions get executed? | [19-01-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQA-AsBDthljRZ-8H30F3O6yAWM0EARExTX7d7eX-pS5Gvc?e=fGWmi0) | []() |
 
