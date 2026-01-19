@@ -13,7 +13,7 @@
 **Class Slot:** B  
 **Exam Slot:** B  
 
-#### Rasing Query
+#### Raising Query
 
 - Course-related emails should have the subject prefixed with **CS223**.
 - **Email ID:** phrangboklang@iitg.ac.in
