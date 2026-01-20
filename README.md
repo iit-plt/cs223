@@ -61,4 +61,5 @@
 | 4       |  16-01-2026            | Amdahl's Law | [16-01-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQD-aNiJWuy6QI4PUH0To06KAXD-33w3RPDvTesJnxvboC8?e=QSYcFx) | []() |
 | Tutorial |  16-01-2026            | MIPS rating and Amdahl’s Law | [16-01-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQDfedqwk-5DSorN2IqTEIGRAYKx5K6BEaHAOIav5ilpOSA?e=QUH0CP) | []() |
 | 5       |  19-01-2026            | How do instructions get executed? | [19-01-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQA-AsBDthljRZ-8H30F3O6yAWM0EARExTX7d7eX-pS5Gvc?e=fGWmi0) | []() |
-
+| 6       |  20-01-2026            | Memory Addressing and Different level of languages | [20-01-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQD_LCY70mt5QJnjTFeV1m0FAVLhDW8CFBy6Wbxut4WP1j4?e=DU1D4Q) | []() |
+| 7       |  20-01-2026            |  IEEE Floating Point representation | [20-01-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQACQTWYqqIcTqNIDOTrmsCtASdbk34t4Sj4KvR5B5i5JOk?e=XdMQ85) | []() |
