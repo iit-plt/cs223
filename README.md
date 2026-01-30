@@ -65,6 +65,5 @@
 | 7       |  20-01-2026            |  IEEE Floating Point representation | [20-01-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQACQTWYqqIcTqNIDOTrmsCtASdbk34t4Sj4KvR5B5i5JOk?e=XdMQ85) | []() |
 | 8       |  21-01-2026            |  IEEE Floating Point​ Arithmetic​ | [21-01-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQCSUCaTLlkUSpcwGZXFuemKAYv64piY6TFgEysFEb1audM?e=s3zJma) | []() |
 | 9       |  27-01-2026            |  Instruction Set Architecture | [27-01-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQC4yUDElYWNSpPJgSNzXmAaAX7fPARu_WE5oo20_mrN-60?e=WNySjn) | []() |
-
 | 10       |  28-01-2026            |  Addressing Mode | [28-01-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQCevHKR0SdWQKfWgIcaktXdAce0MK-boa_5ALWB4GTifIs?e=y0rvUO) | []() |
-| 11       |  28-01-2026            |  RISC V Addressing  Mode, Instruction Format and IS | [28-01-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQD9UAITAOLuR4deK7dcHv8CAVL-TygsnZoqkE9Q4sA1-KM?e=Folggn) | []() |
+| 11       |  29-01-2026            |  RISC V Architecture-I​ | [29-01-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQDXxVh9iF4AQL4c64nMWmvKASLFgJq38XTSq_z3f7_mljs?e=1Uzu3f) | []() |
