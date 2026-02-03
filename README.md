@@ -69,4 +69,4 @@ Quiz 1 is scheduled on 4th February 2026. Please check your room no [here.](http
 | 10       |  28-01-2026            |  Addressing Mode | [28-01-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQCevHKR0SdWQKfWgIcaktXdAce0MK-boa_5ALWB4GTifIs?e=y0rvUO) | []() |
 | 11       |  29-01-2026            |  RISC V Architecture-I​ | [29-01-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQDXxVh9iF4AQL4c64nMWmvKASLFgJq38XTSq_z3f7_mljs?e=1Uzu3f) | []() |
 | 12       |  02-02-2026            |  Branching: If, If-Else, While and For Loops | | |
-| 13       |  03-02-2026            |  To be Updated | | |
+| 13       |  03-02-2026            |  Arrays and functions | | |
