@@ -68,5 +68,5 @@ Quiz 1 is scheduled on 4th February 2026. Please check your room no [here.](http
 | 9       |  27-01-2026            |  Instruction Set Architecture | [27-01-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQC4yUDElYWNSpPJgSNzXmAaAX7fPARu_WE5oo20_mrN-60?e=WNySjn) | []() |
 | 10       |  28-01-2026            |  Addressing Mode | [28-01-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQCevHKR0SdWQKfWgIcaktXdAce0MK-boa_5ALWB4GTifIs?e=y0rvUO) | []() |
 | 11       |  29-01-2026            |  RISC V Architecture-I​ | [29-01-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQDXxVh9iF4AQL4c64nMWmvKASLFgJq38XTSq_z3f7_mljs?e=1Uzu3f) | []() |
-| 12       |  02-02-2026            |  Branching: If, If-Else, While and For Loops | | |
-| 13       |  03-02-2026            |  Arrays and functions | | |
+| 12       |  02-02-2026            |  RISC V Architecture - Branching | [02-02-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQBuqnXOt-rTT4STPvlFF1BuAXTmOODhVlCrLiS29ZNZ-7M?e=U9Kmuk) | |
+| 13       |  03-02-2026            |  RISC V Architecture - Arrays, Char, Function | [03-02-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQA5DywBTqtiRpZVJI1d66z6AVaHSJUbTmnhWqFi9oHGung?e=Vv45zT) | |
