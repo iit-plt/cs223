@@ -20,12 +20,12 @@
 
 #### Assessment Marks Weightage
 
-| Assessment        | Marks | Weightage |  Date |
-|-------------------|-------|------------|------------|
-| Class Test – 1    | 20    | 10%        | February 4 |
-| Mid-Semester      | 30    | 30%        |TBA         |
-| Class Test – 2    | 20    | 10%        |TBA         |
-| End-Semester      | 50    | 50%        |TBA         |
+| Assessment        | Marks | Weightage |  Date | Mapping |
+|-------------------|-------|------------|------------|------------|
+| Class Test – 1    | 20    | 10%        | February 4 | [Quiz 1](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQCYzt0dAUMfQoN5sGZWekgbATBEgjRO5cGJXelzemSnyNc?e=5QYV31) |
+| Mid-Semester      | 30    | 30%        |TBA         | |
+| Class Test – 2    | 20    | 10%        |TBA         | |
+| End-Semester      | 50    | 50%        |TBA         | |
 
 *This is tentative. Any changes will be informed in due course of time. 
 
@@ -44,6 +44,7 @@
 ---
 ### **Notice Board**
 
+Quiz 1 is scheduled on 4th February 2026. Please check your room no [here.](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQCYzt0dAUMfQoN5sGZWekgbATBEgjRO5cGJXelzemSnyNc?e=5QYV31)
 
 ---
 
@@ -67,3 +68,5 @@
 | 9       |  27-01-2026            |  Instruction Set Architecture | [27-01-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQC4yUDElYWNSpPJgSNzXmAaAX7fPARu_WE5oo20_mrN-60?e=WNySjn) | []() |
 | 10       |  28-01-2026            |  Addressing Mode | [28-01-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQCevHKR0SdWQKfWgIcaktXdAce0MK-boa_5ALWB4GTifIs?e=y0rvUO) | []() |
 | 11       |  29-01-2026            |  RISC V Architecture-I​ | [29-01-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQDXxVh9iF4AQL4c64nMWmvKASLFgJq38XTSq_z3f7_mljs?e=1Uzu3f) | []() |
+| 12       |  02-02-2026            |  Branching: If, If-Else, While and For Loops | | |
+| 13       |  03-02-2026            |  To be Updated | | |
