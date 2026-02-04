@@ -20,9 +20,9 @@
 
 #### Assessment Marks Weightage
 
-| Assessment        | Marks | Weightage |  Date | Mapping |
-|-------------------|-------|------------|------------|------------|
-| Class Test – 1    | 20    | 10%        | February 4 | [Quiz 1](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQCYzt0dAUMfQoN5sGZWekgbATBEgjRO5cGJXelzemSnyNc?e=5QYV31) |
+| Assessment        | Marks | Weightage |  Date | Mapping | Solution | 
+|-------------------|-------|------------|------------|------------|------------|
+| Class Test – 1    | 20    | 10%        | February 4 | [Quiz 1](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQCYzt0dAUMfQoN5sGZWekgbATBEgjRO5cGJXelzemSnyNc?e=5QYV31) | [Quiz 1 Solution](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQD_CPZNqKH8TrX8w1sis-boATu6A2dVmPIR6B1jeG0DoSc?e=BpEUhv) |
 | Mid-Semester      | 30    | 30%        |TBA         | |
 | Class Test – 2    | 20    | 10%        |TBA         | |
 | End-Semester      | 50    | 50%        |TBA         | |
@@ -44,7 +44,7 @@
 ---
 ### **Notice Board**
 
-Quiz 1 is scheduled on 4th February 2026. Please check your room no [here.](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQCYzt0dAUMfQoN5sGZWekgbATBEgjRO5cGJXelzemSnyNc?e=5QYV31)
+Quiz 1 is scheduled on 4th February 2026. Please find the Quiz 1 solution [here](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQD_CPZNqKH8TrX8w1sis-boATu6A2dVmPIR6B1jeG0DoSc?e=BpEUhv).
 
 ---
 
@@ -70,3 +70,4 @@ Quiz 1 is scheduled on 4th February 2026. Please check your room no [here.](http
 | 11       |  29-01-2026            |  RISC V Architecture-I​ | [29-01-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQDXxVh9iF4AQL4c64nMWmvKASLFgJq38XTSq_z3f7_mljs?e=1Uzu3f) | []() |
 | 12       |  02-02-2026            |  RISC V Architecture - Branching | [02-02-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQBuqnXOt-rTT4STPvlFF1BuAXTmOODhVlCrLiS29ZNZ-7M?e=U9Kmuk) | |
 | 13       |  03-02-2026            |  RISC V Architecture - Arrays, Char, Function | [03-02-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQA5DywBTqtiRpZVJI1d66z6AVaHSJUbTmnhWqFi9oHGung?e=Vv45zT) | |
+| 14       |  04-02-2026            |  RISC V Architecture - Cont Function, Stack, Recursions | [04-02-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQBcu0UgnB74TK8Bql0grSbWAW8sBASfRj5cEyIAJ4IZGMA?e=rnQvqa) | |
