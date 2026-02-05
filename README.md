@@ -22,7 +22,7 @@
 
 | Assessment        | Marks | Weightage |  Date | Mapping | Solution | 
 |-------------------|-------|------------|------------|------------|------------|
-| Class Test – 1    | 20    | 10%        | February 4 | [Quiz 1](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQCYzt0dAUMfQoN5sGZWekgbATBEgjRO5cGJXelzemSnyNc?e=5QYV31) | [Quiz 1 Solution](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQD_CPZNqKH8TrX8w1sis-boATu6A2dVmPIR6B1jeG0DoSc?e=BpEUhv) |
+| Class Test – 1    | 20    | 10%        | February 4 | [Quiz 1](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQCYzt0dAUMfQoN5sGZWekgbATBEgjRO5cGJXelzemSnyNc?e=5QYV31) | [Quiz 1 Solution](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAx884oXwV-QamICsQNd5DfAWtdhH-_2imrj9JeBWy7v-U?e=TJpIPc) |
 | Mid-Semester      | 30    | 30%        |TBA         | |
 | Class Test – 2    | 20    | 10%        |TBA         | |
 | End-Semester      | 50    | 50%        |TBA         | |
@@ -44,7 +44,7 @@
 ---
 ### **Notice Board**
 
-Quiz 1 is scheduled on 4th February 2026. Please find the Quiz 1 solution [here](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQD_CPZNqKH8TrX8w1sis-boATu6A2dVmPIR6B1jeG0DoSc?e=BpEUhv).
+Quiz 1 is scheduled on 4th February 2026. Please find the Quiz 1 solution [here](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAx884oXwV-QamICsQNd5DfAWtdhH-_2imrj9JeBWy7v-U?e=TJpIPc).
 
 ---
 
