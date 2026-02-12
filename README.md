@@ -22,10 +22,11 @@
 
 | Assessment        | Marks | Weightage |  Date | Mapping | Solution | 
 |-------------------|-------|------------|------------|------------|------------|
-| Class Test – 1    | 20    | 10%        | February 4 | [Quiz 1](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQCYzt0dAUMfQoN5sGZWekgbATBEgjRO5cGJXelzemSnyNc?e=5QYV31) | [Quiz 1 Solution](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAx884oXwV-QamICsQNd5DfAWtdhH-_2imrj9JeBWy7v-U?e=TJpIPc) |
+| Class Test – 1    | 30    | 10%        | February 4 | [Quiz 1](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQCYzt0dAUMfQoN5sGZWekgbATBEgjRO5cGJXelzemSnyNc?e=5QYV31) | [Quiz 1 Solution](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAx884oXwV-QamICsQNd5DfAWtdhH-_2imrj9JeBWy7v-U?e=TJpIPc) |
 | Mid-Semester      | 30    | 30%        |TBA         | |
 | Class Test – 2    | 20    | 10%        |TBA         | |
-| End-Semester      | 50    | 50%        |TBA         | |
+| End-Semester      | 35    | 35%        |TBA         | |
+| Assignment     | 15    | 15%        |TBA         | |
 
 *This is tentative. Any changes will be informed in due course of time. 
 
@@ -74,3 +75,4 @@ Quiz 1 is scheduled on 4th February 2026. Please find the Quiz 1 solution [here]
 | 15       |  09-02-2026            |  RISC V Instruction Format | [09-02-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAXbQCqwLktQrgKXRwF_MrqAUrBafVLdt0XNwawyrKhStI?e=zyUBMS) | |
 | 16       |  09-02-2026            |  Processor Design: Design of a Control Unit-1 | [09-02-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAyiTHmHFx5SbvtlUftvenmAf6xj2L0-0gVupDtLHbALaY?e=fh2clT) | |
 | 17       |  10-02-2026            |  Processor Design: Design of a Control Unit-2 & Hardwired Control Unit | [10-02-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQDRGDH0PzdyTacBVoO0Q_rUAf_yrLlXm6XmZc5QQhGdjjo?e=XbbI3y) | |
+| 18       |  11-02-2026            |  Lecture 17 continued | [11-02-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQDRGDH0PzdyTacBVoO0Q_rUAf_yrLlXm6XmZc5QQhGdjjo?e=XbbI3y) | |
