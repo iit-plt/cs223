@@ -80,6 +80,6 @@ Quiz 1 is scheduled on 4th February 2026. Please find the Quiz 1 solution [here]
 | 20       |  17-02-2026            |  RISC-V Implementation-I​ | [17-02-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQCRFtAdwXwUS7PBpxQbWF29AYrD3m9xh058Dl_OFfALTr0?e=PgBCHv) | |
 | Tutorial |  18-02-2026            |  RARS simulator | [18-02-2026]() | |
 | 21       |  23-02-2026            |  RISC-V-Implementation-II​ | [23-02-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAKpKSYi88iTLon0CixxNwJAZ2p3DY9t3pf1lYuZ0iVA04?e=I2RzCe) | |
-| 22       |  24-02-2026            |  Doubt Clearing and Revision | [24-02-2026]() | |
+| 22       |  24-02-2026            |  Doubt Clearing and Revision |  | |
 
 
