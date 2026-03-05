@@ -23,7 +23,7 @@
 | Assessment        | Marks | Weightage |  Date | Mapping | Solution | 
 |-------------------|-------|------------|------------|------------|------------|
 | Class Test – 1    | 30    | 10%        | February 4th | [Quiz 1](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQCYzt0dAUMfQoN5sGZWekgbATBEgjRO5cGJXelzemSnyNc?e=5QYV31) | [Quiz 1 Solution](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAx884oXwV-QamICsQNd5DfAWtdhH-_2imrj9JeBWy7v-U?e=TJpIPc) |
-| Mid-Semester      | 30    | 30%        | March 2nd         | [Mid-Sem]() | [Mid-Sem](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAeHDxE5_--S4mXXKTD3rKFAX3ocQUHgjsx2a1QhMPC_8E?e=vVSuQD))|
+| Mid-Semester      | 30    | 30%        | March 2nd         | [Mid-Sem]() | [Mid-Sem](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAeHDxE5_--S4mXXKTD3rKFAX3ocQUHgjsx2a1QhMPC_8E?e=vVSuQD)|
 | Class Test – 2    | 20    | 10%        |TBA         | |
 | End-Semester      | 40    | 40%        |TBA         | |
 | Assignment     | 10    | 10%        |TBA         | |
