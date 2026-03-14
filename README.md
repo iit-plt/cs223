@@ -77,9 +77,11 @@ Quiz 1 is scheduled on 4th February 2026. Please find the Quiz 1 solution [here]
 | 17       |  10-02-2026            |  Processor Design: Design of a Control Unit-2 & Hardwired Control Unit | [10-02-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQDRGDH0PzdyTacBVoO0Q_rUAf_yrLlXm6XmZc5QQhGdjjo?e=XbbI3y) | |
 | 18       |  11-02-2026            |  Lecture 17 continued | [11-02-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQDRGDH0PzdyTacBVoO0Q_rUAf_yrLlXm6XmZc5QQhGdjjo?e=XbbI3y) | |
 | 19       |  16-02-2026            |  Microprogrammed Control Unit | [16-02-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQD5vUp5_L9MQ7BlwBgatCJ4AVihKVl04Z2PAd684OgNRvA?e=hjJBeo) | |
-| 20       |  17-02-2026            |  RISC-V Implementation-I​ | [17-02-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQCRFtAdwXwUS7PBpxQbWF29AYrD3m9xh058Dl_OFfALTr0?e=PgBCHv) | |
+| 20       |  17-02-2026            |  RISC-V-Implementation-I​ | [17-02-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQCRFtAdwXwUS7PBpxQbWF29AYrD3m9xh058Dl_OFfALTr0?e=PgBCHv) | |
 | Tutorial |  18-02-2026            |  RARS simulator | [18-02-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQCJakqRdsPjTpOfcKGQo_fsATx_SBcauvnJUSNzKrp2iLM?e=bk0LJD) | |
 | 21       |  23-02-2026            |  RISC-V-Implementation-II​ | [23-02-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAKpKSYi88iTLon0CixxNwJAZ2p3DY9t3pf1lYuZ0iVA04?e=I2RzCe) | |
 | 22       |  24-02-2026            |  Doubt Clearing and Revision |  | |
-
+| 23       |  09-03-2026            |  RISC-V-Pipelining-​Implementation-I | [09-03-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQDVuRLFoCMFQ67rGKGJqNnjAdaA3DNjf_yv4MAecKgLlfQ?e=CsQruH) | |
+| 24 |  11-03-2026                  |  RISC-V-Pipelining-​Implementation-II | [11-03-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAbdafLBUQiRJ9rIUP3VcjQAeMNntn4aG0fVpIv6kYn6rA?e=NCwok1) | |
+| 25       |  13-03-2026            |  Pipeline Hazards-I​ | [13-03-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQBHQnKndBvoSLo07zaDHNlpAfQJv8TQGpPAcrmsC_FEfY8?e=SqPScJ) | |
 
