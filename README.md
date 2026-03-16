@@ -84,4 +84,4 @@ Quiz 1 is scheduled on 4th February 2026. Please find the Quiz 1 solution [here]
 | 23       |  09-03-2026            |  RISC-V-Pipelining-​Implementation-I | [09-03-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQDVuRLFoCMFQ67rGKGJqNnjAdaA3DNjf_yv4MAecKgLlfQ?e=CsQruH) | |
 | 24 |  11-03-2026                  |  RISC-V-Pipelining-​Implementation-II | [11-03-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAbdafLBUQiRJ9rIUP3VcjQAeMNntn4aG0fVpIv6kYn6rA?e=NCwok1) | |
 | 25       |  13-03-2026            |  Pipeline Hazards-I​ | [13-03-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQBHQnKndBvoSLo07zaDHNlpAfQJv8TQGpPAcrmsC_FEfY8?e=SqPScJ) | |
-
+| 26       |  16-03-2026            |  Pipeline Hazards-II​ | [16-03-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQDIE3M_1cyERYgIf6BPR5WdAdwvv3YJqcAQmhn4xK5TGYA?e=DnX1b9) | |
