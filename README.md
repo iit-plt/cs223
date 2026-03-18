@@ -86,4 +86,4 @@ Quiz 1 is scheduled on 4th February 2026. Please find the Quiz 1 solution [here]
 | 25       |  13-03-2026            |  Pipeline Hazards-I​ | [13-03-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQBHQnKndBvoSLo07zaDHNlpAfQJv8TQGpPAcrmsC_FEfY8?e=SqPScJ) | |
 | 26       |  16-03-2026            |  Pipeline Hazards-II​ | [16-03-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQDIE3M_1cyERYgIf6BPR5WdAdwvv3YJqcAQmhn4xK5TGYA?e=DnX1b9) | |
 | 27       |  17-03-2026            |  Branch-Prediction-I| [17-03-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAFx6CzmaffQ6uvW2LGiwdxAd_TMLkhEEBTdXVPU_pZUbc?e=kA7pFE) | |
-| 28       |  18-03-2026            |  Branch-Prediction-II​ | [18-03-2026]() | |
+| 28       |  18-03-2026            |  Branch-Prediction-II​ | [18-03-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQD8W_4CH1d6Roj_SHmwRZrvATjFRnA64836g1nIRXu2_zY?e=3PKRIE) | |
