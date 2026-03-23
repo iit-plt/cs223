@@ -26,7 +26,7 @@
 | Mid-Semester      | 60    | 30%        | March 2nd         | [Mid-Sem]() | [Mid-Sem](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAeHDxE5_--S4mXXKTD3rKFAX3ocQUHgjsx2a1QhMPC_8E?e=vVSuQD)|
 | Class Test – 2    | 20    | 10%        |TBA         | |
 | End-Semester      | 40    | 40%        |TBA         | |
-| Assignment     | 10    | 10%        |TBA   |[Group](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQB-BaBVo4wfSILRc5bYRonAAWSEy6F2wU6xdX-u7kdMty8?e=bIuP5O) | |
+| Assignment     | 10    | 10%        | April 20th  |[Group](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQB-BaBVo4wfSILRc5bYRonAAWSEy6F2wU6xdX-u7kdMty8?e=bIuP5O) | |
 
 *This is tentative. Any changes will be informed in due course of time. 
 
@@ -45,10 +45,10 @@
 ---
 ### **Assignment Details**
 The assignment details are shared in the pdf below. The benchmark and final groups are also as follows:
-- [Assignment](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQBI44fd9prOT7PgGBxXU9mXAdM3SdYTd5qHmk0Kzct4rjU?e=HYwORp)
-- [Benchmark](https://iitgoffice-my.sharepoint.com/:f:/g/personal/evanstar_iitg_ac_in/IgBJR5RBiHagTZ3BeZGTZn0bAcLQ24BBp9U6SS-G6DE6FII?e=7vYsjw)
-- [Groups](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQB-BaBVo4wfSILRc5bYRonAAWSEy6F2wU6xdX-u7kdMty8?e=bIuP5O)
 
+| Assignment        | Benchmark | Groups |  Due Date |
+|-------------------|-------|------------|------------|
+| [Assignment](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQBI44fd9prOT7PgGBxXU9mXAdM3SdYTd5qHmk0Kzct4rjU?e=HYwORp)  | [Benchmark](https://iitgoffice-my.sharepoint.com/:f:/g/personal/evanstar_iitg_ac_in/IgBJR5RBiHagTZ3BeZGTZn0bAcLQ24BBp9U6SS-G6DE6FII?e=7vYsjw) | [Groups](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQB-BaBVo4wfSILRc5bYRonAAWSEy6F2wU6xdX-u7kdMty8?e=bIuP5O) | April 20th  |
 ---
 
 ### **Attendance and slides**
