@@ -26,7 +26,7 @@
 | Mid-Semester      | 60    | 30%        | March 2nd         | [Mid-Sem]() | [Mid-Sem](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAeHDxE5_--S4mXXKTD3rKFAX3ocQUHgjsx2a1QhMPC_8E?e=vVSuQD)|
 | Class Test – 2    | 20    | 10%        |TBA         | |
 | End-Semester      | 40    | 40%        |TBA         | |
-| Assignment     | 10    | 10%        | [Group](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQB-BaBVo4wfSILRc5bYRonAAWSEy6F2wU6xdX-u7kdMty8?e=bIuP5O)         | |
+| Assignment     | 10    | 10%        |TBA   |[Group](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQB-BaBVo4wfSILRc5bYRonAAWSEy6F2wU6xdX-u7kdMty8?e=bIuP5O) | |
 
 *This is tentative. Any changes will be informed in due course of time. 
 
