@@ -43,9 +43,11 @@
 - *Computer System Architecture*, M. Morris Mano, 3rd Ed., Pearson, 1992. [5]
 
 ---
-### **Notice Board**
+### **Assignment Details**
 
-The groups for the assignment are finalised. Please refer to the [pdf](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQB-BaBVo4wfSILRc5bYRonAAWSEy6F2wU6xdX-u7kdMty8?e=bIuP5O) for more details.
+[Assignment](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQBI44fd9prOT7PgGBxXU9mXAdM3SdYTd5qHmk0Kzct4rjU?e=HYwORp)
+[Benchmark](https://iitgoffice-my.sharepoint.com/:f:/g/personal/evanstar_iitg_ac_in/IgBJR5RBiHagTZ3BeZGTZn0bAcLQ24BBp9U6SS-G6DE6FII?e=7vYsjw)
+[Groups](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQB-BaBVo4wfSILRc5bYRonAAWSEy6F2wU6xdX-u7kdMty8?e=bIuP5O)
 
 ---
 
