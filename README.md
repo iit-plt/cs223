@@ -91,3 +91,4 @@ The assignment details are shared in the pdf below. The benchmark and final grou
 | 26       |  16-03-2026            |  Pipeline Hazards-II​ | [16-03-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQDIE3M_1cyERYgIf6BPR5WdAdwvv3YJqcAQmhn4xK5TGYA?e=DnX1b9) | |
 | 27       |  17-03-2026            |  Branch-Prediction-I| [17-03-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAFx6CzmaffQ6uvW2LGiwdxAd_TMLkhEEBTdXVPU_pZUbc?e=kA7pFE) | |
 | 28       |  18-03-2026            |  Branch-Prediction-II​ | [18-03-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQD8W_4CH1d6Roj_SHmwRZrvATjFRnA64836g1nIRXu2_zY?e=3PKRIE) | |
+| 29       |  23-03-2026            |  Introduction to Memory​ | [23-03-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQB_PK0Mbj6kTplcBTOw_jBuAc_rEMKZWa7Rteq5v_eXDP8?e=J84FEV) | |
