@@ -92,3 +92,5 @@ The assignment details are shared in the pdf below. The benchmark and final grou
 | 27       |  17-03-2026            |  Branch-Prediction-I| [17-03-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAFx6CzmaffQ6uvW2LGiwdxAd_TMLkhEEBTdXVPU_pZUbc?e=kA7pFE) | |
 | 28       |  18-03-2026            |  Branch-Prediction-II​ | [18-03-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQD8W_4CH1d6Roj_SHmwRZrvATjFRnA64836g1nIRXu2_zY?e=3PKRIE) | |
 | 29       |  23-03-2026            |  Introduction to Memory​ | [23-03-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQB_PK0Mbj6kTplcBTOw_jBuAc_rEMKZWa7Rteq5v_eXDP8?e=J84FEV) | |
+| 30       |  24-03-2026            |  DRAM​ | [24-03-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQCJJ89F8HLFTrviUBPoysDDATg7AlSxU2fl7p-sMSIMDfk?e=BLbvO0) | |
+| 31       |  25-03-2026            |  Memory Interfacing & Interleaving​ | [25-03-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAZXFS3sUpTRbjmLC0bW9_EAWIMgsSscHEZ3Lidi7j7Mj0?e=bxu4LU) | |
