@@ -26,7 +26,7 @@
 | Mid-Semester      | 60    | 30%        | March 2nd         | [Mid-Sem]() | [Mid-Sem](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAeHDxE5_--S4mXXKTD3rKFAX3ocQUHgjsx2a1QhMPC_8E?e=vVSuQD)|
 | Class Test – 2    | 20    | 10%        |TBA         | |
 | End-Semester      | 40    | 40%        |TBA         | |
-| Assignment     | 10    | 10%        | April 20th  |[Group](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQB-BaBVo4wfSILRc5bYRonAAWSEy6F2wU6xdX-u7kdMty8?e=bIuP5O) | [Assignment](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQBI44fd9prOT7PgGBxXU9mXAdM3SdYTd5qHmk0Kzct4rjU?e=HYwORp), [Benchmark](https://iitgoffice-my.sharepoint.com/:f:/g/personal/evanstar_iitg_ac_in/IgBJR5RBiHagTZ3BeZGTZn0bAcLQ24BBp9U6SS-G6DE6FII?e=7vYsjw)|
+| Assignment     | 10    | 10%        | April 20th  |[Group](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAxqL1Xulc3SZQcd6qoHOFkAZKl4XWNjwzZU-z17X1_xgA?e=XOc0Vl) | [Assignment](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQBI44fd9prOT7PgGBxXU9mXAdM3SdYTd5qHmk0Kzct4rjU?e=HYwORp), [Benchmark](https://iitgoffice-my.sharepoint.com/:f:/g/personal/evanstar_iitg_ac_in/IgBJR5RBiHagTZ3BeZGTZn0bAcLQ24BBp9U6SS-G6DE6FII?e=7vYsjw)|
 
 *This is tentative. Any changes will be informed in due course of time. 
 
@@ -48,7 +48,7 @@ The assignment details are shared in the pdf below. The benchmark and final grou
 
 | Assignment        | Benchmark | Groups |  Due Date |
 |-------------------|-------|------------|------------|
-| [Assignment](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQBI44fd9prOT7PgGBxXU9mXAdM3SdYTd5qHmk0Kzct4rjU?e=HYwORp)  | [Benchmark](https://iitgoffice-my.sharepoint.com/:f:/g/personal/evanstar_iitg_ac_in/IgBJR5RBiHagTZ3BeZGTZn0bAcLQ24BBp9U6SS-G6DE6FII?e=7vYsjw) | [Groups](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQB-BaBVo4wfSILRc5bYRonAAWSEy6F2wU6xdX-u7kdMty8?e=bIuP5O) | April 20th  |
+| [Assignment](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQBI44fd9prOT7PgGBxXU9mXAdM3SdYTd5qHmk0Kzct4rjU?e=HYwORp)  | [Benchmark](https://iitgoffice-my.sharepoint.com/:f:/g/personal/evanstar_iitg_ac_in/IgBJR5RBiHagTZ3BeZGTZn0bAcLQ24BBp9U6SS-G6DE6FII?e=7vYsjw) | [Groups](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAxqL1Xulc3SZQcd6qoHOFkAZKl4XWNjwzZU-z17X1_xgA?e=XOc0Vl) | April 20th  |
 
 
 ---
