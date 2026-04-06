@@ -97,3 +97,4 @@ The assignment details are shared in the pdf below. The benchmark and final grou
 | 32       |  30-03-2026            |  Introduction to memory Hierarchy design​ | [30-03-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQALMQ_QANIJQqXggn3G1V0YAdO3CahbTAtceEgU3QnLndA?e=9Mjqon) | |
 | 33       |  01-04-2026            |  Cache Memory I | [01-04-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQBCwGYZfVsLSZeEyWBpBZFNAV6i4Hv7DtLz8EKIs0PCDyo?e=GwOdJ5) | |
 | 34       |  02-04-2026            |  Cache Memory II | [02-04-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQCF9zwP0wEhTYFtdShr9zQNAZd_hG64XRxLnxDA--QJRUU?e=lYLxTt) | |
+| 35       |  06-04-2026            |  Cache Memory II | [06-04-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQBAlVq61f5cQaf7_uio1przAaeyZLpjihKAAcYTfzpNiJo?e=AYqh8p) | |
