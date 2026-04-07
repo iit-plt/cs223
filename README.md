@@ -24,7 +24,7 @@
 |-------------------|-------|------------|------------|------------|------------|
 | Class Test – 1    | 30    | 10%        | February 4th | [Quiz 1](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQCYzt0dAUMfQoN5sGZWekgbATBEgjRO5cGJXelzemSnyNc?e=5QYV31) | [Quiz 1 Solution](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAx884oXwV-QamICsQNd5DfAWtdhH-_2imrj9JeBWy7v-U?e=TJpIPc) |
 | Mid-Semester      | 60    | 30%        | March 2nd         | [Mid-Sem]() | [Mid-Sem](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAeHDxE5_--S4mXXKTD3rKFAX3ocQUHgjsx2a1QhMPC_8E?e=vVSuQD)|
-| Class Test – 2    | 20    | 10%        |April 8th         | |
+| Class Test – 2    | 20    | 10%        |April 8th         | [Quiz -2](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQDo3lqKjTpXSpKGMhAd5D6LAbXpjXu6AEPnBspfDtV76LY?e=VQGX6c)|
 | End-Semester      | 40    | 40%        |TBA         | |
 | Assignment     | 10    | 10%        | April 20th  |[Group](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAxqL1Xulc3SZQcd6qoHOFkAZKl4XWNjwzZU-z17X1_xgA?e=XOc0Vl) | [Assignment](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQBI44fd9prOT7PgGBxXU9mXAdM3SdYTd5qHmk0Kzct4rjU?e=HYwORp), [Benchmark](https://iitgoffice-my.sharepoint.com/:f:/g/personal/evanstar_iitg_ac_in/IgBJR5RBiHagTZ3BeZGTZn0bAcLQ24BBp9U6SS-G6DE6FII?e=7vYsjw)|
 
@@ -50,6 +50,9 @@ The assignment details are shared in the pdf below. The benchmark and final grou
 |-------------------|-------|------------|------------|
 | [Assignment](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQBI44fd9prOT7PgGBxXU9mXAdM3SdYTd5qHmk0Kzct4rjU?e=HYwORp)  | [Benchmark](https://iitgoffice-my.sharepoint.com/:f:/g/personal/evanstar_iitg_ac_in/IgBJR5RBiHagTZ3BeZGTZn0bAcLQ24BBp9U6SS-G6DE6FII?e=7vYsjw) | [Groups](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAxqL1Xulc3SZQcd6qoHOFkAZKl4XWNjwzZU-z17X1_xgA?e=XOc0Vl) | April 20th  |
 
+---
+### **Quiz 2 details**
+The quiz classroom mapping is shared above. Timings are 5:00 pm to 6:30 pm. 
 
 ---
 
