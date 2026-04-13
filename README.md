@@ -101,3 +101,7 @@ The quiz classroom mapping is shared above. Timings are 5:00 pm to 6:30 pm.
 | 33       |  01-04-2026            |  Cache Memory I | [01-04-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQBCwGYZfVsLSZeEyWBpBZFNAV6i4Hv7DtLz8EKIs0PCDyo?e=GwOdJ5) | |
 | 34       |  02-04-2026            |  Cache Memory II | [02-04-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQCF9zwP0wEhTYFtdShr9zQNAZd_hG64XRxLnxDA--QJRUU?e=lYLxTt) | |
 | 35       |  06-04-2026            |  Cache Memory III | [06-04-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQBAlVq61f5cQaf7_uio1przAaeyZLpjihKAAcYTfzpNiJo?e=AYqh8p) | |
+
+| 36       |  07-04-2026            |  Secondary Memory| [07-04-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQCOchlnLnZmS5Nndu0G7wO-AVCDGg9x8kMcST9-MnZlAoM) | |
+
+| 37       |  08-04-2026            |  SSD | [08-04-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQCFlG2ZfSm_Q7g4OQDYAm7oAdPUP6aFTCQ5V76eW6b3QH4) | |
