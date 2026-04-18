@@ -46,9 +46,9 @@
 ### **Assignment Details**
 The assignment details are shared in the pdf below. The benchmark and final groups are also as follows:
 
-| Assignment        | Benchmark | Groups |  Due Date |
-|-------------------|-------|------------|------------|
-| [Assignment](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQBI44fd9prOT7PgGBxXU9mXAdM3SdYTd5qHmk0Kzct4rjU?e=HYwORp)  | [Benchmark](https://iitgoffice-my.sharepoint.com/:f:/g/personal/evanstar_iitg_ac_in/IgBJR5RBiHagTZ3BeZGTZn0bAcLQ24BBp9U6SS-G6DE6FII?e=7vYsjw) | [Groups](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAxqL1Xulc3SZQcd6qoHOFkAZKl4XWNjwzZU-z17X1_xgA?e=XOc0Vl) | April 20th  |
+| Assignment        | Benchmark | Groups |  Due Date | Submission link |
+|-------------------|-------|------------|------------|------------|
+| [Assignment](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQBI44fd9prOT7PgGBxXU9mXAdM3SdYTd5qHmk0Kzct4rjU?e=HYwORp)  | [Benchmark](https://iitgoffice-my.sharepoint.com/:f:/g/personal/evanstar_iitg_ac_in/IgBJR5RBiHagTZ3BeZGTZn0bAcLQ24BBp9U6SS-G6DE6FII?e=7vYsjw) | [Groups](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAxqL1Xulc3SZQcd6qoHOFkAZKl4XWNjwzZU-z17X1_xgA?e=XOc0Vl) | April 20th  | [Submit here](https://forms.gle/QPTWZPmoHxG5R8Rz6) |
 
 ---
 ### **Quiz 2 details**
