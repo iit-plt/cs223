@@ -104,5 +104,7 @@ The quiz classroom mapping is shared above. Timings are 5:00 pm to 6:30 pm.
 | 36       |  07-04-2026            |  Secondary Memory| [07-04-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQCOchlnLnZmS5Nndu0G7wO-AVCDGg9x8kMcST9-MnZlAoM) | |
 | 37       |  08-04-2026            |  SSD | [08-04-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQCFlG2ZfSm_Q7g4OQDYAm7oAdPUP6aFTCQ5V76eW6b3QH4) | |
 | 38       |  13-04-2026            |  SSD-Cont | ---do--- | |
-
+| 39       |  20-04-2026            |  IO-Part-I | [20-04-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQA5XOo_PDQiS4I7VSE6iULPAU8QuHX6WEuo-INYdqUX5L8?e=oHAgW4) | |
+| 40       |  21-04-2026            |  IO-Part-II | [21-04-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQBWG6QjZ14DTIE8lUN69QItAYJor4OkTtHJRtbkvEKa-4Q?e=7Yuaw0) | |
+| 41       |  22-04-2026            |  IO-Part-III | [22-04-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQBdZfuXtXpFSoKYDK4NVXoKAbumax_hqYDAOtfxdhWaWro?e=j7q9Nq) | |
 
