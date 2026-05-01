@@ -108,3 +108,4 @@ The quiz classroom mapping is shared above. Timings are 5:00 pm to 6:30 pm.
 | 40       |  21-04-2026            |  IO-Part-II | [21-04-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQBWG6QjZ14DTIE8lUN69QItAYJor4OkTtHJRtbkvEKa-4Q?e=7Yuaw0) | |
 | 41       |  22-04-2026            |  IO-Part-III | [22-04-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQBdZfuXtXpFSoKYDK4NVXoKAbumax_hqYDAOtfxdhWaWro?e=j7q9Nq) | |
 | 42       |  27-04-2026            |  DMA | [27-04-2026](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQDzIc6Cn2yIQ4Xk1BHbIBndAaxFp0xQdz1UxvrDNl3DEwo?e=gZoZTH) | |
+| 43       |  28-04-2026            |  Tutorials | [28-04-2026](https://iitgoffice-my.sharepoint.com/:f:/g/personal/phrangboklang_iitg_ac_in/IgAakKitr5dAQL9vT3GkdUKbAf5-GrE5jMFtUD7eWR4JntQ?e=GDPqzc) | |
