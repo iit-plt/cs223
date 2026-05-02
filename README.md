@@ -13,9 +13,7 @@
 **Class Slot:** B  
 **Exam Slot:** B  
 
-### Syllabus for End-Sem:
-#### Pre-Mid-Sem topics: Lectures- 2, 3, 4, 7, 8, 16-21
-#### Post-Mid-Sem topics: 23-42
+**Syllabus for End-Sem- Pre-Mid-Sem topics:** Lectures- 2, 3, 4, 7, 8, 16-21, **Post-Mid-Sem topics:** 23-42
 
 
 #### Raising Query
