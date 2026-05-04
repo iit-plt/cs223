@@ -29,7 +29,7 @@
 | Mid-Semester      | 60    | 30%        | March 2nd         | [Mid-Sem]() | [Mid-Sem](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAeHDxE5_--S4mXXKTD3rKFAX3ocQUHgjsx2a1QhMPC_8E?e=vVSuQD)|
 | Class Test – 2    | 30    | 10%        |April 8th         | [Quiz -2](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQDo3lqKjTpXSpKGMhAd5D6LAbXpjXu6AEPnBspfDtV76LY?e=VQGX6c) | [Quiz 2 Solution](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQBR9VVSbQNTT5hvhVl_ooR-AUf8Hs9M63uj3vlLLx3YwNE?e=RcL7wp) |
 | Assignment     | 10    | 10%        | April 20th  |[Group](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQAxqL1Xulc3SZQcd6qoHOFkAZKl4XWNjwzZU-z17X1_xgA?e=XOc0Vl) | [Assignment](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQBI44fd9prOT7PgGBxXU9mXAdM3SdYTd5qHmk0Kzct4rjU?e=HYwORp), [Benchmark](https://iitgoffice-my.sharepoint.com/:f:/g/personal/evanstar_iitg_ac_in/IgBJR5RBiHagTZ3BeZGTZn0bAcLQ24BBp9U6SS-G6DE6FII?e=7vYsjw)|
-| End-Semester      | 40    | 40%        |May 4th         |[End-Sem]() |
+| End-Semester      | 110    | 40%        |May 4th         |[End-Sem](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQD03rYetRi_SbNNTtGoQ2nBAc5hA2v9_MtYJJIZOjkdhI8?e=aZDYob) |
 
 *This is tentative. Any changes will be informed in due course of time. 
 
